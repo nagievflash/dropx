@@ -9967,3 +9967,21 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.main-screen p {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+.main-screen .balance {
+  font-size: 20px;
+  line-height: 28px;
+}
+.main-screen .nav-item {
+  margin-right: 15px;
+}
+.main-screen .nav-item a {
+  box-shadow: none !important;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}

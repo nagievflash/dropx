@@ -30,9 +30,9 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
     'telegram' => [
-        'bot' => env('TELEGRAM_BOT_NAME', 'DropXBot'),  // The bot's username
+        'bot' => env('TELEGRAM_BOT_NAME', 'DaHubBot'),  // The bot's username
         'client_id' => null,
-        'client_secret' => env('TELEGRAM_TOKEN', '1150126504:AAFkiBpU24zgf2GPZLBUoYPE_j3Tgy5YWB0'),
+        'client_secret' => env('TELEGRAM_TOKEN', '1564265584:AAHuVwKoWyqqvHhejJACelKvrBmRyXMiYos'),
         'redirect' => env('TELEGRAM_REDIRECT_URI', '/telegram/redirect'),
     ],
 
