@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93294b5c-afee-4bf2-9db9-370f89f76c72" name="Drop-x.ru" url="https://drop-x.ru">
+        <fileTransfer host="194.67.91.112" port="22" rootFolder="/var/www/www-root/data/drop-x.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
